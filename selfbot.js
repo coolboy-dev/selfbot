@@ -1587,8 +1587,8 @@ bot.on("message", async msg => {
     if (args.length < 1) {
       let embed = new Discord.RichEmbed()
         .setDescription("Prefix: `.` Made by: `RisinPlayZ`")
-        .setAuthor("{───────<    Project Risin    >────────}")
-        .setColor("black")
+        .setAuthor("{───────<    Project COOLBOY    >────────}")
+        .setColor("blue")
         .setTimestamp()
         .addField(
           `>**HELP COMMANDS** ───────────────────────`,
@@ -1600,25 +1600,25 @@ bot.on("message", async msg => {
           "**` ✅NITRO SNIPER `** \n **` ✅SLOTBOT SNIPER `** \n **` ✅MEE6 XP `**"
         )
         .setImage(
-          "https://cdn.discordapp.com/attachments/779725570782003221/780694896449290260/IMG_20201124_125049_018.JPG"
+          "https://media.discordapp.net/attachments/780411554377105409/797510840520802314/unknown.png?width=747&height=498"
         );
       msg.channel.send(embed).then(message => message.delete(240000));
     } else if (haste.toLowerCase() === "status") {
       let gay = new Discord.RichEmbed()
-        .setAuthor("Project Risin ")
-        .setColor("black  ")
+        .setAuthor("Project COOLBOY ")
+        .setColor("blue  ")
         .setTimestamp()
         .addField(
           `**STATUS COMMANDS** ──────────────────────────────`,
           "`Stream` `Listen` `Watch` `Play` `Stop`"
         )
         .setImage(
-          "https://cdn.discordapp.com/attachments/779725570782003221/780694896449290260/IMG_20201124_125049_018.JPG"
+          "https://media.discordapp.net/attachments/780411554377105409/797510840520802314/unknown.png?width=747&height=498"
         );
       msg.channel.send(gay).then(message => message.delete(240000));
     } else if (haste.toLowerCase() === "text") {
       let gay = new Discord.RichEmbed()
-        .setAuthor("Project risin")
+        .setAuthor("Project COOLBOY")
         .setColor("black")
         .setTimestamp()
         .setImage(
@@ -1631,11 +1631,11 @@ bot.on("message", async msg => {
       msg.channel.send(gay).then(message => message.delete(240000));
     } else if (haste.toLowerCase() === "spammer") {
       let gay = new Discord.RichEmbed()
-        .setAuthor("Project risin")
-        .setColor("black")
+        .setAuthor("Project COOLBOY")
+        .setColor("blue")
         .setTimestamp()
         .setImage(
-          "https://cdn.discordapp.com/attachments/779725570782003221/780694896449290260/IMG_20201124_125049_018.JPG"
+          "https://media.discordapp.net/attachments/780411554377105409/797510840520802314/unknown.png?width=747&height=498"
         )
         .addField(
           "**SPAMMER COMMANDS  ─────────────**",
@@ -1644,11 +1644,11 @@ bot.on("message", async msg => {
       msg.channel.send(gay).then(message => message.delete(240000));
     } else if (haste.toLowerCase() === "fun2") {
       let gay = new Discord.RichEmbed()
-        .setAuthor("Project risin")
+        .setAuthor("Project COOLBOY")
         .setColor("black")
         .setTimestamp()
         .setImage(
-          "https://cdn.discordapp.com/attachments/779725570782003221/780694896449290260/IMG_20201124_125049_018.JPG"
+          "https://media.discordapp.net/attachments/780411554377105409/797510840520802314/unknown.png?width=747&height=498"
         )
         .addField(
           "**FUN2 COMMANDS ─────────────────**",
@@ -1657,11 +1657,11 @@ bot.on("message", async msg => {
       msg.channel.send(gay).then(message => message.delete(240000));
     } else if (haste.toLowerCase() === "fun") {
       let gay = new Discord.RichEmbed()
-        .setAuthor("Project risin")
-        .setColor("black")
+        .setAuthor("Project COOLBOY")
+        .setColor("blue")
         .setTimestamp()
         .setImage(
-          "https://cdn.discordapp.com/attachments/779725570782003221/780694896449290260/IMG_20201124_125049_018.JPG"
+          "https://media.discordapp.net/attachments/780411554377105409/797510840520802314/unknown.png?width=747&height=498"
         )
         .addField(
           "**FUN COMMANDS ──────────────────**",
@@ -1670,11 +1670,11 @@ bot.on("message", async msg => {
       msg.channel.send(gay).then(message => message.delete(240000));
     } else if (haste.toLowerCase() === "info") {
       let gay = new Discord.RichEmbed()
-        .setAuthor("Project risin")
-        .setColor("black")
+        .setAuthor("Project COOLBOY")
+        .setColor("blue")
         .setTimestamp()
         .setImage(
-          "https://cdn.discordapp.com/attachments/779725570782003221/780694896449290260/IMG_20201124_125049_018.JPG"
+          "https://media.discordapp.net/attachments/780411554377105409/797510840520802314/unknown.png?width=747&height=498"
         )
         .addField(
           "**INFO COMMANDS  ─────────────────**",
@@ -1683,11 +1683,11 @@ bot.on("message", async msg => {
       msg.channel.send(gay).then(message => message.delete(240000));
     } else if (haste.toLowerCase() === "nuke") {
       let gay = new Discord.RichEmbed()
-        .setAuthor("Project risin")
-        .setColor("black")
+        .setAuthor("Project COOLBOY")
+        .setColor("blue")
         .setTimestamp()
         .setImage(
-          "https://cdn.discordapp.com/attachments/779725570782003221/780694896449290260/IMG_20201124_125049_018.JPG"
+          "https://media.discordapp.net/attachments/780411554377105409/797510840520802314/unknown.png?width=747&height=498"
         )
         .addField(
           "**NUKE COMMANDS**",
