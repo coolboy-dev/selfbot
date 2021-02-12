@@ -1622,7 +1622,7 @@ bot.on("message", async msg => {
         .setColor("black")
         .setTimestamp()
         .setImage(
-          "https://cdn.discordapp.com/attachments/779725570782003221/780694896449290260/IMG_20201124_125049_018.JPG"
+          "https://media.discordapp.net/attachments/780411554377105409/797510840520802314/unknown.png?width=747&height=498"
         )
         .addField(
           "**TEXT COMMANDS**",
